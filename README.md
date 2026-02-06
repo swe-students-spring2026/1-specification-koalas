@@ -31,6 +31,7 @@ See instructions. Delete this line and place your Product Vision Statement here.
 12. As a NYU student, I want to get a notification when a study space gets less crowded so that I can secure a seat ASAP.
 13. As a NYU student, I want to bookmark a study space so that I can quickly access it later.
 14. As a NYU student, I want to submit a complaint about inaccurate data so that the admins can fix it.
+
 ##### Contributors
 15. As a NYU student, I want to update the crowdedness data of a study space so that I can help others find a place to study.
 16. As a NYU student, I want to not spend a lot of time updating the crowdedness data so that I can efficiently update the data.
@@ -55,7 +56,13 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+Source UML Activity Diagrams: [UML.drawio](contents/uml/UML.drawio)
+
+![NYU-Member-1](contents/uml/NYU-Member-1.svg)
+![NYU-Member-2](contents/uml/NYU-Member-2.svg)
+![NYU-Member-3](contents/uml/NYU-Member-3.svg)
+![Administrator-1](contents/uml/Administrator-1.svg)
+![Administrator-2](contents/uml/Administrator-2.svg)
 
 ## Clickable Prototype
 
