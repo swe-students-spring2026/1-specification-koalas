@@ -4,9 +4,8 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-
 Bella D'Aquino - [GitHub Profile](https://github.com/belladaq)
+Zhuowen (William) Zhang - [GitHub Profile](https://github.com/Incrediblez7)
 
 ## Stakeholders
 
@@ -19,7 +18,7 @@ Bella D'Aquino - [GitHub Profile](https://github.com/belladaq)
 - Quickly identify available study spaces in real time
 - Find study environments that match certain needs (e.g. quiet vs. group-friendly)
 - See specific seating availability within a space (e.g. tables near window)
-- Recieve personalized study space reccomendations based on set preferences and current crowdedness conditions across study areas 
+- Receive personalized study space recommendations based on set preferences and current crowdedness conditions across study areas
 - See information about what a building or space may provide (e.g. computer or printer access, nearby cafe or dining hall)
 
 #### Problems / Frustrations
@@ -30,10 +29,9 @@ Bella D'Aquino - [GitHub Profile](https://github.com/belladaq)
 - Existing tools (e.g. Google "busy hours") don't reflect real time conditions or student needs
 
 
-
 ## Product Vision Statement
 
-This app is an intuitive, real-time campus crowdedness app that helps NYU students quickly find available study spaces that match their preferences for noise level, resources, seating, and group size wihout wasting time searching in-person.
+This app is an intuitive, real-time campus crowdedness app that helps NYU students quickly find available study spaces that match their preferences for noise level, resources, seating, and group size without wasting time searching in-person.
 
 ## User Requirements (Stories)
 ### NYU Members
@@ -46,7 +44,7 @@ This app is an intuitive, real-time campus crowdedness app that helps NYU studen
 6. As a NYU student, I want to know the update time of the crowdedness data so that I know the data is reliable.
 7. As a NYU student, I want to know when the study space closes so that I know where to go at midnight.
 8. As a NYU student, I want to check how crowded the collaborative study space is so that I can plan group conversation slots accordingly.
-9. As a NYU student, I want to check if the collaborative study space is already full before I go there so that I won't have to wonder around finding a new place.
+9. As a NYU student, I want to check if the collaborative study space is already full before I go there so that I won't have to wander around finding a new place.
 10. As a NYU student, I want to see the historical trend of the crowdedness data so that I can plan accordingly.
 11. As a NYU student, I want to filter out the crowded spaces so that I can quickly locate a quiet space.
 12. As a NYU student, I want to get a notification when a study space gets less crowded so that I can secure a seat ASAP.
