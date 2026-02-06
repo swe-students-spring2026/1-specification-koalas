@@ -31,16 +31,17 @@ See instructions. Delete this line and place your Product Vision Statement here.
 12. As a NYU student, I want to get a notification when a study space gets less crowded so that I can secure a seat ASAP.
 13. As a NYU student, I want to bookmark a study space so that I can quickly access it later.
 14. As a NYU student, I want to submit a complaint about inaccurate data so that the admins can fix it.
-
+15. As a NYU student, I want to reserve a study room so that I am guaranteed to have a seat with peace of mind.
+<!-- p.s. Doable by <Ab>using "POST /spaces/availability/grid" and "POST /ajax/space/times" of nyu.libcal.com -->
 ##### Contributors
-15. As a NYU student, I want to update the crowdedness data of a study space so that I can help others find a place to study.
-16. As a NYU student, I want to not spend a lot of time updating the crowdedness data so that I can efficiently update the data.
-17. As a NYU student, I want to contribute to the data since more people use the app, the more accurate the data will be.
-18. As a NYU student, I want to select the building and floor of the study space so that I can quickly locate the study space I want to update.
-19. As a NYU student, I want to automatically update the crowdedness data when I go there so that I don't have to do anything while still contributing to the data.
-20. As a NYU student, I want to select between a predefined set of crowdedness levels (lots of seats, few seats if any, completely full, closed, etc.) so that I don't have to describe in my own words.
-21. As a NYU student, I want to see the last updated time so that I don't have to duplicate-update the data.
-22. As a NYU student, I want to get a push notification when I enter a study space so that I can quickly contribute to the crowdedness data.
+16. As a NYU student, I want to update the crowdedness data of a study space so that I can help others find a place to study.
+17. As a NYU student, I want to not spend a lot of time updating the crowdedness data so that I can efficiently update the data.
+18. As a NYU student, I want to contribute to the data since more people use the app, the more accurate the data will be.
+19. As a NYU student, I want to select the building and floor of the study space so that I can quickly locate the study space I want to update.
+20. As a NYU student, I want to automatically update the crowdedness data when I go there so that I don't have to do anything while still contributing to the data.
+21. As a NYU student, I want to select between a predefined set of crowdedness levels (lots of seats, few seats if any, completely full, closed, etc.) so that I don't have to describe in my own words.
+22. As a NYU student, I want to see the last updated time so that I don't have to duplicate-update the data.
+23. As a NYU student, I want to get a push notification when I enter a study space so that I can quickly contribute to the crowdedness data.
 
 ### Administrators
 1. As an administrator, I want to remove invalid submissions so that everything is up to date.
